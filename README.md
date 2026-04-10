@@ -13,4 +13,4 @@ Este é um programa desenvolvido em **Java** para auxiliar no gerenciamento de n
 - **Scanner API** (para interação com o usuário)
 
 ---
-*Projeto desenvolvido como parte dos estudos de lógica de programação *
+*Projeto desenvolvido como parte dos estudos de lógica de programação*
